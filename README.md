@@ -1,5 +1,5 @@
-Develop Web Application with Node.js, Express.js REST Service and Neo4j (neo4j-js module)
-=========================================================================================
+Web Application POC with Node.js, Express.js and Neo4j
+======================================================
 
 This codebase is a proof of concept towards make a web application with Javascript based Web Server 
 with Node.js and Neo4j.
